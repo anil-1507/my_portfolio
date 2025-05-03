@@ -29,13 +29,13 @@ function Header() {
               </a>
             ))}
             <div className="flex items-center space-x-4">
-              <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/Anilkumar-2003" target="_blank" rel="noopener noreferrer">
                 <Github className="w-5 h-5 text-gray-600 hover:text-purple-600 transition-colors" />
               </a>
-              <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.linkedin.com/in/vagicharla-anilkumar-aaa947321/" target="_blank" rel="noopener noreferrer">
                 <Linkedin className="w-5 h-5 text-gray-600 hover:text-purple-600 transition-colors" />
               </a>
-              <a href="mailto:your.email@example.com">
+              <a href="mailto:anilkumarvagicharla32@gmail.com">
                 <Mail className="w-5 h-5 text-gray-600 hover:text-purple-600 transition-colors" />
               </a>
             </div>
