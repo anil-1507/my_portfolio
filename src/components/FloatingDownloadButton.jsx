@@ -6,7 +6,7 @@ const FloatingDownloadButton = () => {
 
   const handleDownload = () => {
     const link = document.createElement('a');
-    link.href = 'https://drive.google.com/uc?export=download&id=1MHc534hWeqiU996qsaj7zMx0baYDAVnL';
+    link.href = 'https://drive.google.com/uc?export=download&id=1ep5yX9wzFVdqTT6t69Np8M2R8AWfH5eK';
     link.download = 'Resume.pdf';
     document.body.appendChild(link);
     link.click();
@@ -29,7 +29,6 @@ const FloatingDownloadButton = () => {
         </svg>
         <span className="icon2" />
       </button>
-      
 
       {/* Show the message on hover */}
       {isHovered && (
