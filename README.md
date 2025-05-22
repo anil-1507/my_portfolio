@@ -4,6 +4,7 @@ This is a modern portfolio website built with React, Tailwind CSS, and Framer Mo
 
 ## Features
 
+
 - Responsive design with Tailwind CSS
 - Smooth animations with Framer Motion
 - Interactive UI elements
